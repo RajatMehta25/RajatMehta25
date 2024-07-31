@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/rajatmehta__25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajatmehta__25" height="30" width="40" /></a>
 <a href="https://instagram.com/thatsuaveboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatsuaveboy" height="30" width="40" /></a>
-   <a href="https://www.facebook.com/thatsuaveboy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thatsuaveboy" height="30" width="40" /></a>
+   <a href="https://www.facebook.com/alpha.male.rajat_mehta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thatsuaveboy" height="30" width="40" /></a>
   <a href="https://www.youtube.com/channel/UCpne3i4g6GaORoAFcqO2yiQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thatsuaveboy" height="30" width="40" /></a>
 </p>
 
